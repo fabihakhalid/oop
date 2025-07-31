@@ -7,5 +7,8 @@ public class VariablesDataTypes {
         int age ;
         age = 10;
          System.out.println(age);
+
+        char ch ='f';
+    System.out.println(ch);
     }
 }
